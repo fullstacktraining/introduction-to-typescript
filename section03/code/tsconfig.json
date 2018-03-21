@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6"
+  },
+  "files": [
+    "app.ts"
+  ],
+  "include": [
+    // "*.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
